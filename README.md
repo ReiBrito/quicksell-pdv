@@ -22,7 +22,7 @@ Este projeto simula um sistema de vendas simples, permitindo **listar produtos, 
 
 Click no link para testar o sistema
 
-
+https://reibrito.github.io/quicksell-pdv/
 
 ![Preview do QuickSell](print.png)  
 
