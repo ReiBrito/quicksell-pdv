@@ -27,10 +27,10 @@ https://reibrito.github.io/quicksell-pdv/
 Tela 1
 ![Preview do QuickSell](print.png)  
 
-Tela 1
+Tela 2
 ![Preview do QuickSell](print1.png)  
 
-Tela 1
+Tela 3
 ![Preview do QuickSell](print2.png)  
 
 ---
