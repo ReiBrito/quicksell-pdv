@@ -73,7 +73,7 @@ Pronto! 🎉 O sistema já estará rodando.
 
  Gerar recibos em PDF após a finalização da venda
 
-📄 Licença
+## 📄 Licença
 
 Este projeto está sob a licença MIT.
 Sinta-se livre para usar, modificar e compartilhar!
