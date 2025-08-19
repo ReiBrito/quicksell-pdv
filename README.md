@@ -24,7 +24,14 @@ Click no link para testar o sistema
 
 https://reibrito.github.io/quicksell-pdv/
 
+Tela 1
 ![Preview do QuickSell](print.png)  
+
+Tela 1
+![Preview do QuickSell](print1.png)  
+
+Tela 1
+![Preview do QuickSell](print2.png)  
 
 ---
 
