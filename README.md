@@ -23,6 +23,7 @@ Este projeto simula um sistema de vendas simples, permitindo **listar produtos, 
 Click no link para testar o sistema
 
 
+
 ![Preview do QuickSell](print.png)  
 
 ---
@@ -40,18 +41,23 @@ Click no link para testar o sistema
 1. Baixe ou clone este repositório:
    ```bash
    git clone https://github.com/ReiBrito/quicksell-pdv.git
+   ```
 Abra o arquivo index.html diretamente no navegador.
 
 Pronto! 🎉 O sistema já estará rodando.
 
-📂 Estrutura do Projeto
-bash
-Copiar
-Editar
+## 📂 Estrutura do Projeto
+
+```bash
+
 📦 quicksell-pdv
  ┣ 📜 index.html   # Página principal com HTML, CSS e JS embutidos
  ┗ 📜 README.md    # Documentação do projeto
 📌 Próximos Passos (Ideias de Melhorias)
+
+```
+## 🛠️ Próximas implementações
+
  Implementar persistência do carrinho no localStorage
 
  Adicionar suporte a cadastro de novos produtos
@@ -61,6 +67,7 @@ Editar
  Gerar recibos em PDF após a finalização da venda
 
 📄 Licença
+
 Este projeto está sob a licença MIT.
 Sinta-se livre para usar, modificar e compartilhar!
 
