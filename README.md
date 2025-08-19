@@ -20,7 +20,10 @@ Este projeto simula um sistema de vendas simples, permitindo **listar produtos, 
 
 ## 🖼️ Demonstração
 
-![Preview do QuickSell](preview-quicksell.png)  
+Click no link para testar o sistema
+
+
+![Preview do QuickSell](print.png)  
 
 ---
 
@@ -36,7 +39,7 @@ Este projeto simula um sistema de vendas simples, permitindo **listar produtos, 
 
 1. Baixe ou clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/quicksell-pdv.git
+   git clone https://github.com/ReiBrito/quicksell-pdv.git
 Abra o arquivo index.html diretamente no navegador.
 
 Pronto! 🎉 O sistema já estará rodando.
